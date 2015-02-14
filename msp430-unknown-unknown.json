@@ -1,0 +1,8 @@
+{
+    "data-layout": "e-m:e-p:16:16-i32:16:32-a:16-n8:16",
+    "llvm-target": "generic",
+    "target-endian": "big",
+    "target-word-size": "32",
+    "arch": "arm",
+    "os": "unknown"
+}
